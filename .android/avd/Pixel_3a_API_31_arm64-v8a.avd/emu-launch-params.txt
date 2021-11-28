@@ -1,0 +1,10 @@
+/
+/Users/minseok/Library/Android/sdk/emulator/emulator
+7
+/Users/minseok/Library/Android/sdk/emulator/emulator
+-netdelay
+none
+-netspeed
+full
+-avd
+Pixel_3a_API_31_arm64-v8a
